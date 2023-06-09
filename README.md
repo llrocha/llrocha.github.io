@@ -4,7 +4,7 @@
 Ambev Tech\
 Blumenau, Santa Catarina, Brazil\
 Email: leonardolpi@gmail.com\
-LinkedIn: [http://www.linkedin.com/in/leonardo-larsen-rocha-82819227](http://www.linkedin.com/in/leonardo-larsen-rocha-82819227)
+LinkedIn: [http://www.linkedin.com/in/leonardo-larsen-rocha-82819227](http://www.linkedin.com/in/leonardo-larsen-rocha-82819227)\
 HackerRank: [https://www.hackerrank.com/leonardolpi](https://www.hackerrank.com/leonardolpi)
 
 ---
