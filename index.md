@@ -5,12 +5,13 @@ Ambev Tech\
 Blumenau, Santa Catarina, Brazil\
 Email: leonardolpi@gmail.com\
 LinkedIn: [http://www.linkedin.com/in/leonardo-larsen-rocha-82819227](http://www.linkedin.com/in/leonardo-larsen-rocha-82819227)
+HackerRank: [https://www.hackerrank.com/leonardolpi](https://www.hackerrank.com/leonardolpi)
 
 ---
 
 ## Summary
 
-Experienced software architect with a strong background in Python, C/C++, and scripting languages. Skilled in various databases, including Oracle, Sybase, MSSql Server, MySQL, and MongoDB. Proficient in DevOps practices and infrastructure management, with expertise in Microsoft Azure. Dedicated to clean code principles, design patterns, and microservices architecture. Experienced in Agile methodologies and tools such as Scrum, Jira, and Git. Familiar with cloud platforms like Azure and IBM Cloud, as well as containerization technologies like Docker and Kubernetes. Passionate about IoT development using MicroPython, Raspberry Pi, Arduino, and PIC16.
+Experienced software architect with a strong background in Python, C/C++ and scripting languages. Skilled in various databases, including Oracle, Sybase, MSSql Server, MySQL, and MongoDB. Proficient in DevOps practices and infrastructure management, with expertise in Microsoft Azure. Dedicated to clean code principles, design patterns, and microservices architecture. Experienced in Agile methodologies and tools such as Scrum, Jira, and Git. Familiar with cloud platforms like Azure and IBM Cloud, as well as containerization technologies like Docker and Kubernetes. Passionate about IoT development using MicroPython, Raspberry Pi, Arduino, and PIC16.
 
 ---
 
@@ -55,7 +56,6 @@ December 2011 - December 2018 (7 years 1 month)
 **Systems Analyst**\
 July 2011 - December 2012 (1 year 6 months)
 
-*(Provide more details about your responsibilities and achievements in this role)*
 
 ### DebitDeals
 
@@ -63,7 +63,6 @@ July 2011 - December 2012 (1 year 6 months)
 September 2010 - July 2011 (11 months)
 
 - Developed a system for extracting information from electronic publications of Brazilian courts.
-- *(Consider adding more details about your responsibilities and accomplishments in this role)*
 
 ### HB.SIS Informática Ltda
 
@@ -101,7 +100,7 @@ April 1995 - December 1996 (1 year 9 months)
 
 - Responsible for setting up the BBS and configuring the network, including Internet connectivity in 1995.
 
-### Education
+## Education
 
 #### Universidade Regional de Blumenau
 
