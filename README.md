@@ -112,7 +112,7 @@ Bachelor of Computer Science, 2011 - 2014
 
 #### Senac Blumenau
 
-Technologist in Business Processes, 2009 - 2012
+Technologist in Business Processes, 2009 - 2010
 
 #### Universidade de São Paulo
 
