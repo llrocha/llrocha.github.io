@@ -102,6 +102,10 @@ April 1995 - December 1996 (1 year 9 months)
 
 ## Education
 
+#### Universidade Virtual do Estado de São Paulo
+
+Bachelor of Data Science, 2023 - current
+
 #### Universidade Regional de Blumenau
 
 Bachelor of Computer Science, 2011 - 2014
