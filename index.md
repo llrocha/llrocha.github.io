@@ -46,13 +46,20 @@ Software Architect specializing in the modernization of complex enterprise syste
 ## Previous Experience
 *A condensed timeline of earlier roles focusing on systems analysis, networking, and foundational software engineering.*
 
-- **Nunix Consultoria Ltda** | Systems Analyst *(Jul 2011 - Dec 2012)*
-- **DebitDeals** | Development Analyst *(Sep 2010 - Jul 2011)*
-- **HB.SIS Informática Ltda** | Systems Analyst *(Mar 2004 - May 2011)*
-- **SBO Consultoria** | C++ Programmer *(Aug 1999 - Sep 2005)*
-- **Senior Sistemas** | Systems Analyst *(Apr 1999 - Aug 2003)*
-- **Unisys** | C Unix Programmer *(Mar 1998 - Apr 1999)*
-- **Memphis BBS** | Network Administrator *(Apr 1995 - Dec 1996)*
+**Nunix Consultoria Ltda** | Systems Analyst *(Jul 2011 - Dec 2012)*
+
+**DebitDeals** | Development Analyst *(Sep 2010 - Jul 2011)*
+
+**HB.SIS Informática Ltda** | Systems Analyst *(Mar 2004 - May 2011)*
+
+**SBO Consultoria** | C++ Programmer *(Aug 1999 - Sep 2005)*
+
+**Senior Sistemas** | Systems Analyst *(Apr 1999 - Aug 2003)*
+
+**Unisys** | C Unix Programmer *(Mar 1998 - Apr 1999)*
+
+**Memphis BBS** | Network Administrator *(Apr 1995 - Dec 1996)*
+
 
 ---
 
